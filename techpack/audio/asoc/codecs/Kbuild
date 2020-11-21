@@ -253,4 +253,3 @@ hdmi_dlkm-y := $(HDMICODEC_OBJS)
 
 obj-$(CONFIG_SND_SOC_CS35L36) += cs35l36_dlkm.o
 cs35l36_dlkm-y := $(CS35L36_OBJS)
-
