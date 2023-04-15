@@ -63,6 +63,7 @@ CONFIG_DEFAULT_TCP_CONG="sociopath"
 #
 # Kernel Tweaks
 #
+CONFIG_IOSCHED_SWITCHER=y
 
 #
 # Floral General Configs
